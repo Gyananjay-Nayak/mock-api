@@ -1,14 +1,4 @@
 {
-  "monthlyRevenue": {
-    "data": [
-    {
-      "date": "2024-03-07T00:00:00.000Z",
-      "value": 847
-    }
-  ],
-  "trend": 80,
-  "total": 847
-  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
