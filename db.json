@@ -1,5 +1,4 @@
 {
-{
   "monthlyRevenue": {
     "data": [
       {"date": "2023-03-01T00:00:00.000Z", "value": 6200},
@@ -17,8 +16,7 @@
     ],
     "trend": 85,
     "total": 89500
-  }
-}
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
